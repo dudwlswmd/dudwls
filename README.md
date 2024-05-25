@@ -3,8 +3,8 @@ username# dudwls
 
 <p>Hi, I am Youngjin Song, a web publisher.</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongYoungJin&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SongYoungJin&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudwlswmd&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudwlswmd&layout=compact)
 
 <!--타이틀 부분-->
 <div align="center">
